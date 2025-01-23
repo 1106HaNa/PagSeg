@@ -1,0 +1,11 @@
+_BASE_: /home/liuchanghe/lmy/PAG-Seg/output/eval/config.yaml
+MODEL:
+  META_ARCHITECTURE: "PAGSeg"
+  WEIGHTS: "/home/liuchanghe/lmy/PAG-Seg/output/model_final.pth"
+  SEM_SEG_HEAD:
+    TRAIN_CLASS_JSON: "datasets/coco.json"
+    TEST_CLASS_JSON: "datasets/coco.json"
+    POOLING_SIZES: [1, 1]
+  PROMPT_ENSEMBLE_TYPE: "single"
+TEST:
+  SLIDING_WINDOW: True
