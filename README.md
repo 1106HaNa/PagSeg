@@ -2,7 +2,7 @@
 
 ## Overview
 <p align="center">
-  < img src="framework.pdf" alt="PAGSeg" width="1000">
+  < img src="framework.png" alt="PAGSeg" width="1000">
 </p >
 
 <p align="center"> The overall architecture of the PAGSeg model. </p >
@@ -30,7 +30,7 @@
 
 ## 🤝Result 
 <p align="center">
-  < img src="result.pdf" alt="Result" width="1000">
+  < img src="result.png" alt="Result" width="1000">
 </p >
 
 ## Citation
