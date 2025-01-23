@@ -38,7 +38,7 @@
 </p >
 
 <p align="center">
-  <img src="pic/coco.jpg" alt="Result" width="1000">
+  <img src="pic/pc459.jpg" alt="Result" width="1000">
 </p >
 
 ## Citation
