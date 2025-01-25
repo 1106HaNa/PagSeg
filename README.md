@@ -30,7 +30,11 @@
 
 ## 🤝Result 
 <p align="center">
-  <img src="pic/result.jpg" alt="Result" width="1000">
+  <img src="pic/result1.png" alt="Result" width="1000">
+</p >
+
+<p align="center">
+  <img src="pic/result2.png" alt="Result" width="1000">
 </p >
 
 <p align="center">
